@@ -50,7 +50,7 @@ Worked on opensource projects
 <div align="center">
   
 ## Currently listening to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xodqetcqvi7fr3nme5ikosfomm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xodqetcqvi7fr3nme5ikosfomm&cover_image=true&theme=Novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!--![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)-->
 
