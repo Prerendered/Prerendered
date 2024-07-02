@@ -45,13 +45,13 @@ Worked on opensource projects
 <!--## GitHub stats:-->
 <!--![Prerendered's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prerendered&show_icons=true&theme=radical)-->
 
-<div align="center">
+<!--<div align="center">-->
   
-## Currently listening to:
+<!--## Currently listening to:-->
 <!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xodqetcqvi7fr3nme5ikosfomm&cover_image=true&theme=Novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)-->
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)-->
 
-</div>
+<!--</div>-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving)
