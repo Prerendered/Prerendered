@@ -16,10 +16,9 @@
 
 ## About me
 ```yaml
-Working as Fullstack Developer
-
-Worked on opensource projects
-
+- Fullstack Developer
+- Software Engineer
+- SAP CPQ Tech Consultant
 ```
 
 ## Tools
